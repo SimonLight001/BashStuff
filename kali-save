@@ -1,0 +1,2 @@
+sudo docker ps
+echo "run: sudo docker commit (then the container ID above) simonlight001/kali" 
